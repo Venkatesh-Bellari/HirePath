@@ -112,7 +112,7 @@ serve -s .
 The application will be available at `http://localhost:3000` (or another port if 3000 is taken).
 
 ## 📁 Project Structure
-
+```
 
 /
 ├── components/       # Reusable React components
@@ -127,7 +127,7 @@ The application will be available at `http://localhost:3000` (or another port if
 ├── types.ts          # TypeScript type definitions
 └── README.md         # This file
 
-
+```
 ---
 
 Built with ❤️ by a Fellow College student.
