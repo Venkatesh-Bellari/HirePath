@@ -109,7 +109,7 @@ npm install -g serve
 serve -s .
 ```
 
-The application will be available at `http://localhost:3000` (or another port if 3000 is taken).
+The application will be available at `http://localhost:3000`.
 
 ## 📁 Project Structure
 ```
